@@ -73,7 +73,7 @@
         "url": "heroku/python"
     }],
     "formation": {
-        "Worker": {
+        "Free": {
             "quantity": 1,
             "size": "eco"
         }
